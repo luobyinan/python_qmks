@@ -106,9 +106,9 @@ def GDP_result() -> 'html':
 * [2017年各省总单身人口数和男女单身人口数对比](http://lbyinan.pythonanywhere.com/unmarried_people/2017)
 * [2018年各省总单身人口数和男女单身人口数对比](http://lbyinan.pythonanywhere.com/unmarried_people/2018)
 * [大专学历以上总人数和男女人数](http://lbyinan.pythonanywhere.com/junior_college_people)
-* [2016年大专学历以上总人数和男女人数]((http://lbyinan.pythonanywhere.com/junior_college_people/2016)
-* [2017年大专学历以上总人数和男女人数]((http://lbyinan.pythonanywhere.com/junior_college_people/2017)
-* [2018年大专学历以上总人数和男女人数]((http://lbyinan.pythonanywhere.com/junior_college_people/2018)
+* [2016年大专学历以上总人数和男女人数](http://lbyinan.pythonanywhere.com/junior_college_people/2016)
+* [2017年大专学历以上总人数和男女人数](http://lbyinan.pythonanywhere.com/junior_college_people/2017)
+* [2018年大专学历以上总人数和男女人数](http://lbyinan.pythonanywhere.com/junior_college_people/2018)
 * [中国各省2016-2018年GDP情况](http://lbyinan.pythonanywhere.com/GDP)
 * [中国各省2016-2018年GDP情况(筛选后)](http://lbyinan.pythonanywhere.com/GDP/result)
 
